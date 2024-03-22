@@ -1,1 +1,2 @@
 # estate-price-index
+The project aims to develop a real estate price index and analyze associated data. Employing data scraping techniques, it gathers data used by an automated program for tasks such as cleaning, transforming, and calculating real estate price indices across different levels of granularity. Additionally, the program conducts regression analysis and connects results to PowerBI for visualization. Furthermore, a user-friendly VBA form is created to input company IDs and retrieve relevant financial data, streamlining the process.
